@@ -4,4 +4,6 @@ class Student < User
     @knowledge = knowledge
   end 
 
+  def learn(knowledge)
+    kno
 end
